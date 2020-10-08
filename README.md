@@ -27,3 +27,8 @@ This is a repository for abstracts of international conference papers related to
 
 ### Others
 - [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://github.com/supikiti/Awesome-tts-and-vc/issues/12)
+- [Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data](https://github.com/supikiti/research_paper/blob/master/Unsupervised_Learning_of_Disentangled_and_Interpretable_Representations_from_Sequential_Data.md)
+- [Scalable Factorized Hierarchical Variational Autoencoder Training](https://github.com/supikiti/research_paper/blob/master/Scalable_Factorized_Hierarchical_Variational_Autoencoder_Training.md)
+- [Investigation of using disentangled and interpretable representations for one-shot cross-lingual voice conversion](https://github.com/supikiti/research_paper/blob/master/Investigation_of_using_disentangled_and_interpretable_representations_for_one-shot_cross-lingual_voice_conversion.md)
+- [EXPLORING SPEECH ENHANCEMENT WITH GENERATIVE ADVERSARIAL NETWORKS FOR ROBUST SPEECH RECOGNITION](https://github.com/supikiti/research_paper/blob/master/EXPLORING_SPEECH_ENHANCEMENT_WITH_GENERATIVE_ADVERSARIAL_NETWORKS_FOR_ROBUST_SPEECH_RECOGNITION.md)
+- [MTGAN-Speaker_Verification_through_Multitasking_Triplet_Generative_Adversarial_Network](https://github.com/supikiti/research_paper/blob/master/MTGAN-Speaker_Verification_through_Multitasking_Triplet_Generative_Adversarial_Network.md)
