@@ -9,7 +9,7 @@ This is a repository for abstracts of international conference papers related to
 @supikiti, @YotaUedaa
 
 ## :page_facing_up: Papers
-### INTERSPEECH2020
+### ICASSP2020
 #### SPE-P3 - Machine Learning for Speech Synthesis I
 - [TRANSFORMER-BASED TEXT-TO-SPEECH WITH WEIGHTED FORCED ATTENTION](https://github.com/supikiti/Awesome-tts-and-vc/issues/1)
 - [SCALABLE MULTILINGUAL FRONTEND FOR TTS](https://github.com/supikiti/Awesome-tts-and-vc/issues/3)
