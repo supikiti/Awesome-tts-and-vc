@@ -25,6 +25,10 @@ This is a repository for abstracts of international conference papers related to
 - [Many-to-Many Voice Conversion using Conditional Cycle-Consistent Adversarial Networks](https://github.com/supikiti/Awesome-tts-and-vc/issues/9)
 - [END-TO-END ACCENT CONVERSION WITHOUT USING NATIVE UTTERANCES](https://github.com/supikiti/Awesome-tts-and-vc/issues/11)
 
+#### SPE-P21 - Voice Conversion
+- [ONE-SHOT VOICE CONVERSION USING STAR-GAN]()
+- [ONE-SHOT VOICE CONVERSION BY VECTOR QUANTIZATION]()
+
 ### Others
 - [One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization](https://github.com/supikiti/Awesome-tts-and-vc/issues/12)
 - [Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data](https://github.com/supikiti/research_paper/blob/master/Unsupervised_Learning_of_Disentangled_and_Interpretable_Representations_from_Sequential_Data.md)
